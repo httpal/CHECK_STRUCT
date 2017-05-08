@@ -1,0 +1,8 @@
+{
+	"name": "check_struct",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, Sergey",
+	"authors": ["Sergey"],
+	"dependencies": {
+	}
+}
